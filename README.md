@@ -1,4 +1,4 @@
-# Stress-detection-in-the-rice-fields-of-India-using-RS-and-ML-
+# Stress Detection in Indian Rice Fields Using Remote Sensing and Machine Learning
 
 # 1. Introduction
 India’s rice production accounts for roughly 40 % of its total cereal output, playing a pivotal role in both domestic food security and export revenues. Drought-induced stress can sharply reduce yields, jeopardizing rural livelihoods, national GDP, and global supply chains.
