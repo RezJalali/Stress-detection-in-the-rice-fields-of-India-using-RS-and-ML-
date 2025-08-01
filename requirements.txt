@@ -2,8 +2,7 @@ pandas
 sklearn
 matplotlib
 numpy
-geopandas as gpd
-pandas as pd
+geopandas
 rasterio
 rasterstats
 os
