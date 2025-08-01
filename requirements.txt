@@ -1,1 +1,9 @@
-
+pandas
+sklearn
+matplotlib
+numpy
+geopandas as gpd
+pandas as pd
+rasterio
+rasterstats
+os
